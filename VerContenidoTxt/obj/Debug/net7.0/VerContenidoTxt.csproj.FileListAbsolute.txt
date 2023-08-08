@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\bin\Debug\net7.0\VerContenidoTxt.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\bin\Debug\net7.0\VerContenidoTxt.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\bin\Debug\net7.0\VerContenidoTxt.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\bin\Debug\net7.0\VerContenidoTxt.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\bin\Debug\net7.0\VerContenidoTxt.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\refint\VerContenidoTxt.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\VerContenidoTxt.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\VerContenidoTxt\obj\Debug\net7.0\ref\VerContenidoTxt.dll
