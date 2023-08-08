@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\bin\Debug\net7.0\ApagarPC-Windows.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\bin\Debug\net7.0\ApagarPC-Windows.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\bin\Debug\net7.0\ApagarPC-Windows.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\bin\Debug\net7.0\ApagarPC-Windows.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\bin\Debug\net7.0\ApagarPC-Windows.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\refint\ApagarPC-Windows.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ApagarPC-Windows.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\ApagarPC-Windows\obj\Debug\net7.0\ref\ApagarPC-Windows.dll
