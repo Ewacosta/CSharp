@@ -1,0 +1,30 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\refint\Planilla.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Planilla\obj\Debug\net7.0\ref\Planilla.dll
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.exe
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.deps.json
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.runtimeconfig.json
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.dll
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\bin\Debug\net7.0\Planilla.pdb
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.dll
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\refint\Planilla.dll
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.pdb
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\Planilla.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ \ITCA\DAE\Planilla\obj\Debug\net7.0\ref\Planilla.dll
