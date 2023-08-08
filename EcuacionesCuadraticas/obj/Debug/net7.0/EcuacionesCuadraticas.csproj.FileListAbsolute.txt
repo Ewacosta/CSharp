@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\bin\Debug\net7.0\EcuacionesCuadraticas.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\bin\Debug\net7.0\EcuacionesCuadraticas.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\bin\Debug\net7.0\EcuacionesCuadraticas.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\bin\Debug\net7.0\EcuacionesCuadraticas.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\bin\Debug\net7.0\EcuacionesCuadraticas.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\refint\EcuacionesCuadraticas.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\EcuacionesCuadraticas.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\EcuacionesCuadraticas\obj\Debug\net7.0\ref\EcuacionesCuadraticas.dll
