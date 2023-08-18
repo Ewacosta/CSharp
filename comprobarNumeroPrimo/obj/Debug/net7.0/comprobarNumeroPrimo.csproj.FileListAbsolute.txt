@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\bin\Debug\net7.0\comprobarNumeroPrimo.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\bin\Debug\net7.0\comprobarNumeroPrimo.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\bin\Debug\net7.0\comprobarNumeroPrimo.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\bin\Debug\net7.0\comprobarNumeroPrimo.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\bin\Debug\net7.0\comprobarNumeroPrimo.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\refint\comprobarNumeroPrimo.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\comprobarNumeroPrimo.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\comprobarNumeroPrimo\obj\Debug\net7.0\ref\comprobarNumeroPrimo.dll

@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\bin\Debug\net7.0\sumaNumerosPares.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\bin\Debug\net7.0\sumaNumerosPares.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\bin\Debug\net7.0\sumaNumerosPares.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\bin\Debug\net7.0\sumaNumerosPares.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\bin\Debug\net7.0\sumaNumerosPares.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\refint\sumaNumerosPares.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\sumaNumerosPares.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\sumaNumerosPares\obj\Debug\net7.0\ref\sumaNumerosPares.dll

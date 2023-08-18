@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\bin\Debug\net7.0\InstruccionForeachEj.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\bin\Debug\net7.0\InstruccionForeachEj.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\bin\Debug\net7.0\InstruccionForeachEj.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\bin\Debug\net7.0\InstruccionForeachEj.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\bin\Debug\net7.0\InstruccionForeachEj.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\refint\InstruccionForeachEj.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\InstruccionForeachEj.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\InstruccionForeachEj\obj\Debug\net7.0\ref\InstruccionForeachEj.dll
