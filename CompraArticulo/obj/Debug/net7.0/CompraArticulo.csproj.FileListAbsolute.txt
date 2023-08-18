@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\bin\Debug\net7.0\CompraArticulo.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\bin\Debug\net7.0\CompraArticulo.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\bin\Debug\net7.0\CompraArticulo.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\bin\Debug\net7.0\CompraArticulo.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\bin\Debug\net7.0\CompraArticulo.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\refint\CompraArticulo.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\CompraArticulo.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\CompraArticulo\obj\Debug\net7.0\ref\CompraArticulo.dll

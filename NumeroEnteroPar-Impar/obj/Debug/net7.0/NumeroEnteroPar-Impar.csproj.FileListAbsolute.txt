@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\bin\Debug\net7.0\NumeroEnteroPar-Impar.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\bin\Debug\net7.0\NumeroEnteroPar-Impar.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\bin\Debug\net7.0\NumeroEnteroPar-Impar.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\bin\Debug\net7.0\NumeroEnteroPar-Impar.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\bin\Debug\net7.0\NumeroEnteroPar-Impar.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\refint\NumeroEnteroPar-Impar.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\NumeroEnteroPar-Impar.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\NumeroEnteroPar-Impar\obj\Debug\net7.0\ref\NumeroEnteroPar-Impar.dll

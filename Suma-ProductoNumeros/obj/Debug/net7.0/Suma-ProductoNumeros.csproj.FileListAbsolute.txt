@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\bin\Debug\net7.0\Suma-ProductoNumeros.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\bin\Debug\net7.0\Suma-ProductoNumeros.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\bin\Debug\net7.0\Suma-ProductoNumeros.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\bin\Debug\net7.0\Suma-ProductoNumeros.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\bin\Debug\net7.0\Suma-ProductoNumeros.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\refint\Suma-ProductoNumeros.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\Suma-ProductoNumeros.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\Suma-ProductoNumeros\obj\Debug\net7.0\ref\Suma-ProductoNumeros.dll

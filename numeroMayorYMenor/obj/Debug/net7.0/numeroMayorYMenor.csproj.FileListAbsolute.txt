@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\bin\Debug\net7.0\numeroMayorYMenor.exe
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\bin\Debug\net7.0\numeroMayorYMenor.deps.json
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\bin\Debug\net7.0\numeroMayorYMenor.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\bin\Debug\net7.0\numeroMayorYMenor.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\bin\Debug\net7.0\numeroMayorYMenor.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\refint\numeroMayorYMenor.dll
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.pdb
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\numeroMayorYMenor.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\DAE\numeroMayorYMenor\obj\Debug\net7.0\ref\numeroMayorYMenor.dll
